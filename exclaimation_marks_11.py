@@ -1,6 +1,6 @@
 def replace_exclamation(s):
     answer = ""
-    vowels = ['a','e','i','o','u']
+    vowels = ['a', 'e', 'i', 'o', 'u']
     for item in s:
         if item.lower() in vowels:
             answer += '!'
