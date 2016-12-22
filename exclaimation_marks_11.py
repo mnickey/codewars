@@ -7,3 +7,4 @@ def replace_exclamation(s):
         else:
             answer += item
     return answer
+
